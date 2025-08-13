@@ -151,3 +151,7 @@ I’m a B.Tech (IT) student at <b>JMIT / Kurukshetra University</b>, focused on 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ffcc00&height=130&section=footer" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yogesh55S/Yogesh55S/output/snake.svg" alt="snake animation" />
+</p>
+
