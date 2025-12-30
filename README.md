@@ -62,53 +62,7 @@ I’m a B.Tech (IT) student at <b>JMIT / Kurukshetra University</b>, focused on 
   <img src="https://raw.githubusercontent.com/Yogesh55S/Yogesh55S/output/snake.svg" alt="snake animation" />
 </p>
 
-## 🚀 Highlighted projects
-> My top projects (Live, repo, and demo links)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Agri-Farma</h3>
-      <p>Platform for farmers to buy farm medicines and access latest govt info/offers.</p>
-      <p><b>Stack:</b> Next.js + Node + MongoDB + Tailwind</p>
-      <p>
-        <a href="#" target="_blank">🔗 Live</a> &nbsp;|&nbsp;
-        <a href="#" target="_blank">📦 Repo</a> &nbsp;|&nbsp;
-        <a href="#" target="_blank">🎥 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Auto-Care Dashboard</h3>
-      <p>Business dashboard with inventory, orders, analytics and role-based access.</p>
-      <p><b>Stack:</b> React + Supabase + Charts</p>
-      <p>
-        <a href="#" target="_blank">🔗 Live</a> &nbsp;|&nbsp;
-        <a href="#" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Combo Maker (E-commerce)</h3>
-      <p>Create product combos (2–5 items), auto-discounts, stock sync, and checkout.</p>
-      <p><b>Stack:</b> Next.js (App Router) + Supabase</p>
-      <p>
-        <a href="#" target="_blank">🔗 Live</a> &nbsp;|&nbsp;
-        <a href="#" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Billing System (Tkinter)</h3>
-      <p>Desktop app to manage products, quantity, quality, price with MySQL backend.</p>
-      <p><b>Stack:</b> Python + Tkinter + MySQL</p>
-      <p>
-        <a href="#" target="_blank">📦 Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📊 GitHub pulse
 <p align="center">
@@ -131,13 +85,6 @@ I’m a B.Tech (IT) student at <b>JMIT / Kurukshetra University</b>, focused on 
 
 ---
 
-## 🧩 What I’m focusing on
-- Deepening **React + Next.js** patterns (server actions, caching, accessibility)
-- Building **reliable APIs** (validation, auth, rate-limits)
-- Better **DX** & testing (linting, type-safety, e2e)
-- Polishing **UI/UX** micro-interactions
-
----
 
 ## 📫 Contact
 - Email: **yogesharma914@gmail.com**
