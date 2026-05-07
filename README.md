@@ -1,73 +1,82 @@
-<!--
-  Premium Animated GitHub Profile for Yogesh Kumar
-  Repo: github.com/Yogesh55S/Yogesh55S  |  Last updated: Aug 2025
--->
+<img src = "githubanner.JPG"/>
 
-<!-- ====== Hero Banner (animated wave in ocean colors) ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077be,100:00d4ff&height=220&section=header&text=Yogesh%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20•%20MERN%20•%20UI/UX&descAlignY=58&animation=fadeIn" alt="header" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR-GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
+<br>
 
-## 🛠️ Tech I use
-<p align="center">
-  <!-- languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" height="44" />
-  &nbsp;&nbsp;
-  <!-- frontend -->
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap,figma" height="44" />
-  &nbsp;&nbsp;
-  <!-- backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="44" />
-  &nbsp;&nbsp;
-  <!-- db / cloud -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" height="44" />
-  &nbsp;&nbsp;
-  <!-- tooling -->
-  <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,postman" height="44" />
+<h2 align="center"> <em>About Me</em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+
+<br/>
+
+<p>
+  Hello There! <em><b>I'm Yogesh Kumar</b></em>, a passionate Full Stack Developer and UI/UX Designer from Haryana, India.
+  
+  Currently pursuing B.Tech in Information Technology from Seth Jai Parkash Mukand Lal Institute of Engineering and Technology (JMIT).
+  
+  I enjoy building modern and scalable applications using MERN Stack, Next.js, Supabase, and modern cloud technologies. I also love designing clean and user-friendly interfaces using Figma and Canva.
+  
+  I have experience working on real-world production projects including car care platforms, educational platforms, skincare brands, inventory systems, and full-stack e-commerce solutions.
 </p>
 
----
+<br/>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yogesh55S/Yogesh55S/output/snake.svg" alt="snake animation" />
+   <em><b> B.Tech IT Student (2021 - 2025)</b></em> <br/>
+   <em><b> Full Stack Developer</b></em><br/>
+   <em><b> UI/UX Designer</b></em><br/>
+   <em><b> Passionate About Modern Web Technologies</b></em><br/>
+   <em><b> Learning AI Tools, Cloud & Scalable Systems</b></em><br/>
 </p>
 
+<br/>
+<br/>
 
+<h2 align="center"> <em>Technologies & Skills</em> </h2>
 
-## 📊 GitHub pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh55S&show_icons=true&rank_icon=github&theme=blue_navy" height="155" />
-  <img src="https://streak-stats.demolab.com?user=Yogesh55S&theme=blue_navy" height="155" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-000000?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh55S&theme=github-compact&bg_color=0d1117&hide_border=true&radius=8" alt="Activity Graph"/>
-</p>
-
----
-
-## 🎯 Competitive programming
-<p align="center">
-  <a href="https://leetcode.com/u/Yogeshkumar55/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-visit-00bcd4?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/yogesha6ghc/"><img alt="GFG" src="https://img.shields.io/badge/GeeksforGeeks-visit-00aa88?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-</p>
-
----
+<br/>
 
 
-## 📫 Contact
-- Email: **yogesharma914@gmail.com**
-- LinkedIn: **/in/yogesh-kumar-983840226/**
-- Open to: Internships • Freelance • Collab
-
----
+<h2 align="center"> <em>Quote</em> </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yogesh55S&style=flat-square&color=00bcd4" alt="views" />
-</p>
-
-<!-- ====== Footer wave in ocean colors ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077be,100:00d4ff&height=130&section=footer" />
+  <em>"Design. Develop. Improve. Repeat."</em>
 </p>
