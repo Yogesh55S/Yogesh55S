@@ -1,4 +1,6 @@
-<img src = "githubanner.JPG"/>
+<p align="center">
+  <img src="backbanner.jpeg" width="100%" height="400" style="object-fit: cover;" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
@@ -26,8 +28,6 @@
 <p>
   Hello There! <em><b>I'm Yogesh Kumar</b></em>, a passionate Full Stack Developer and UI/UX Designer from Haryana, India.
   
-  Currently pursuing B.Tech in Information Technology from Seth Jai Parkash Mukand Lal Institute of Engineering and Technology (JMIT).
-  
   I enjoy building modern and scalable applications using MERN Stack, Next.js, Supabase, and modern cloud technologies. I also love designing clean and user-friendly interfaces using Figma and Canva.
   
   I have experience working on real-world production projects including car care platforms, educational platforms, skincare brands, inventory systems, and full-stack e-commerce solutions.
@@ -36,7 +36,6 @@
 <br/>
 
 <p align="center">
-   <em><b> B.Tech IT Student (2021 - 2025)</b></em> <br/>
    <em><b> Full Stack Developer</b></em><br/>
    <em><b> UI/UX Designer</b></em><br/>
    <em><b> Passionate About Modern Web Technologies</b></em><br/>
